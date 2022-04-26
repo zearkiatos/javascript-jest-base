@@ -1,0 +1,28 @@
+{
+  "name": "javascript-jest-base",
+  "version": "1.0.0",
+  "description": "This is a project with a base configuration with jest to practice and improvement skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zearkiatos/javascript-jest-base.git"
+  },
+  "keywords": [
+    "Jest",
+    "javascript",
+    "base",
+    "tests"
+  ],
+  "author": "Pedro Capriles <caprilespe@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zearkiatos/javascript-jest-base/issues"
+  },
+  "homepage": "https://github.com/zearkiatos/javascript-jest-base#readme",
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
