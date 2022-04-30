@@ -23,6 +23,6 @@ jobs:
     - name: Install dependencies
       run: npm install
     - name: Test 🧪
-      run: npm run test
+      run: npm run test:coverage
     - name: Build docker 🐳
       run: docker build . -t=javascript-jest-base:ghb-$GITHUB_RUN_NUMBER

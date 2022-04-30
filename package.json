@@ -4,7 +4,9 @@
   "description": "This is a project with a base configuration with jest to practice and improvement skills",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
